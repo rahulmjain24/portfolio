@@ -33,9 +33,9 @@ export default function RootLayout({
             <Link href="#skills" className="nav__link">
               Skills
             </Link>
-            <Link href="#projects" className="nav__link">
+            {/* <Link href="#projects" className="nav__link">
               Projects
-            </Link>
+            </Link> */}
             <Link href="#about" className="nav__link">
               About
             </Link>
