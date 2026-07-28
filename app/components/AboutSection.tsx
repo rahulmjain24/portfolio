@@ -14,7 +14,7 @@ export default function AboutSection() {
           <p className="about__text about__text--spaced">
             Over the past couple of years, I've focused primarily on backend development and 
             system architecture using Golang, Node.js, and Python. I bridge the gap to the 
-            frontend with TypeScript, while managing resilient deployments with Docker, Redis, and MongoDB.
+            frontend with TypeScript, while managing resilient deployments with Docker, Redis, and Postgres.
           </p>
         </div>
 
@@ -24,7 +24,7 @@ export default function AboutSection() {
             { label: "Focus", value: "Backend · Fullstack" },
             {
               label: "Main Stack",
-              value: "React · Node.js · Express.js · PostgreSQL · NestJS",
+              value: "React · Node.js · Express.js · PostgreSQL · NestJS · Docker",
             },
             { label: "Background", value: "Software Development" },
           ].map(({ label, value }) => (

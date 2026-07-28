@@ -47,7 +47,7 @@ export default function HeroSection() {
               ease: [0.22, 1, 0.36, 1],
             }}
           >
-            <a href="#projects" className="hero__cta hero__cta--primary">
+            <a href="#experience" className="hero__cta hero__cta--primary">
               See my work
             </a>
 
