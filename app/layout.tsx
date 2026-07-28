@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://rahul-jain.dev"),
   title: "Rahul Jain — Software Developer",
   description:
     "Portfolio of Rahul Jain, fullstack software developer based in India.",
